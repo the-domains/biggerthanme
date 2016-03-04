@@ -1,0 +1,28 @@
+name: biggerthanme
+favicon: null
+layout_spectrum: 0.6915795458480716
+typography_spectrum: 0.25014958158135414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9522478361614048
+  lightness: 0.35108288540504873
+  saturation: 0.44471535086631775
+  rhythmicContrast: 0.14024612423963845
+purpose: []
