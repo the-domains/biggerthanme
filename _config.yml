@@ -1,8 +1,7 @@
 name: biggerthanme
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.26876
-title: Bigger Than Me
+layout_spectrum: 0.0011
+typography_spectrum: 0.25014958158135414
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#001f34'
-    - '#596c73'
-    - '#fdbe00'
-    - '#b98800'
-    - '#48acb4'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.75
-  rhythmicContrast: 0.5
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9522478361614048
+  lightness: 0.35108288540504873
+  saturation: 0.44471535086631775
+  rhythmicContrast: 0.14024612423963845
 purpose: []
